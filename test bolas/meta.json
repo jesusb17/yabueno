@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "title": "objetos",
+            "shape": "bitmap",
+            "color": "#299825",
+            "geometry_config": {},
+            "id": 9949875,
+            "hotkey": ""
+        },
+        {
+            "title": "pelota azul",
+            "shape": "bitmap",
+            "color": "#0F67CE",
+            "geometry_config": {},
+            "id": 9949877,
+            "hotkey": "A"
+        },
+        {
+            "title": "pelota_roja",
+            "shape": "bitmap",
+            "color": "#E4233B",
+            "geometry_config": {},
+            "id": 9949879,
+            "hotkey": "R"
+        },
+        {
+            "title": "conos",
+            "shape": "bitmap",
+            "color": "#E06A1D",
+            "geometry_config": {},
+            "id": 9949880,
+            "hotkey": "C"
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
